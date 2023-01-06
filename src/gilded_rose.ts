@@ -66,6 +66,7 @@ export class AgedItem extends GenericItem {
     super(name, sell_in, quality, type);
   }
 }
+
 export var items: Item[] = [];
 
 items.push(new GenericItem("+5 Dexterity Vest", 10, 20));
