@@ -1,6 +1,6 @@
-If you want to get cracking on the JavaScript source then do this:
+If you want to get cracking on the typescript source then do this:
 
-    git clone git@github.com:guyroyse/gilded-rose-javascript.git
+    git clone git@github.com:JeremyEffinger/gilded-rose-typescript.git
 
 Hi and welcome to team Gilded Rose.
 
@@ -59,3 +59,5 @@ never alters.
 Sources:
 <http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/>
 <https://github.com/professor/GildedRose>
+<https://github.com/guyroyse/gilded-rose-javascript>
+<https://github.com/gSchool/gilded-rose-javascript>
